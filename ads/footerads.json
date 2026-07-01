@@ -1,1 +1,16 @@
-
+[
+  {
+    "name": "Earn With Adsterra",
+    "image": "https://ofheaven.github.io/BJM-Marketing/ads/adimages/footer_ads/adsterra_refferal_banner.png",
+    "url": "https://beta.publishers.adsterra.com/referral/Zi4ihNcsxj",
+    "startDate": "2026-06-01",
+    "endDate": "2027-12-31"
+  },
+  {
+    "name": "Earn With Monetag",
+    "image": "https://ofheaven.github.io/BJM-Marketing/ads/adimages/footer_ads/monetag_refferal_banner.png",
+    "url": "https://monetag.com/?ref_id=tQm0",
+    "startDate": "2026-06-01",
+    "endDate": "2027-12-31"
+  }
+]
